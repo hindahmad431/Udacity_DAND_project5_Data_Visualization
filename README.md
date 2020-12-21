@@ -55,6 +55,6 @@ slide_deck_template1.ipynb : This is a juptyer notebook file that we used to com
 
 slide_deck_template1.slides.html: This is the output file to communicate our finding. It is and html file and runs as a slide show. 
 
-output_toggle.tpl: This template file can be used with nbconvert to export slide deck. This adds extra functionality to the slide deck by hiding the code to start, only making it visible if the reader clicks on the output (which should mostly be visualizations in the case of this project). It was taken from this page. 
+output_toggle.tpl: This template file can be used with nbconvert to export slide deck. This adds extra functionality to the slide deck by hiding the code to start, only making it visible if the reader clicks on the output (which should mostly be visualizations in the case of this project). It was taken from this page [this page](https://github.com/damianavila/blog/blob/master/posts/hide-the-input-cells-from-your-ipython-slides.ipynb)
 
 pisa2012_modified.csv: The modified PISA-2012 dataset with only 52 features. 
