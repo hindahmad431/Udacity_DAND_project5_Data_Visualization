@@ -2,7 +2,7 @@
 
 ## by Hind Baageel
 
-<img src='Spring-clean--e1517937586677.jpg' />
+<img src='assessments-by-design.jpg' />
 
 ## Dataset
 
