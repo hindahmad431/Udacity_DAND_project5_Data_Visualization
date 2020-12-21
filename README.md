@@ -39,7 +39,7 @@ ion.
 > To polish the presentation, I have removed the initial figures with design mistakes. For example, the initial figure of the categories of Student's mother highest education was full 
 of unneccessary colors and it is was shown in unordered way. By sticking only to one color and adding labels to each bars and ordering them, finally we had a better figure to represent different categories. 
 
-Secondly, in most figures we tried to minimize x axis range or y axis range to remove extreme outliers that can shift the figures and make them unreadable. 
+> Secondly, in most figures we tried to minimize x axis range or y axis range to remove extreme outliers that can shift the figures and make them unreadable. 
 
 ## Key Insights for Presentation
 > The first key insight of this presentation that mother state can affect student results. The second key insight that having more classes per week can increase student performance in math tests.
